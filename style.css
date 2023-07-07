@@ -95,12 +95,15 @@ margin-left: 15px;
 border: 1px solid #FD6E0A;
 padding: 13px 23px 13px 23px;
 }
-
+main{
+     max-width: 1140px;
+     margin: 0 auto;
+}
 
 .about-section{
      background-color: #FFF8F3;
      text-align: center;
-     margin: 130px 230px;
+     margin-top: 130px;
      padding: 131px 156px;
 }
 
@@ -115,7 +118,7 @@ padding: 13px 23px 13px 23px;
      color: #757575;
      font-size: 18px;
      font-weight: 400;
-     text-align: justify;
+     
 
 }
 .about-information{
