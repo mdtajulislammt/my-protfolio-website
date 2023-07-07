@@ -100,6 +100,8 @@ main{
      margin: 0 auto;
 }
 
+
+
 .about-section{
      background-color: #FFF8F3;
      text-align: center;
@@ -174,3 +176,54 @@ main{
  .card-content img {
      width: 44px;
  }    
+
+
+
+ .resume-container{ 
+     display: flex;
+     justify-content: space-between;
+     
+     
+ }
+ .resume-right{
+     
+    margin: 31px;
+    padding: 10px;
+    
+ }
+
+
+ .resume-container h4{
+     color: #474747;
+     font-size: 30px;
+     font-weight: 700; 
+    
+}
+.resume-h3{
+     color:#474747;
+     font-size: 25px;
+     font-weight: 700;
+     margin-top: 50px;
+   
+   
+}
+.resume-h5{
+     color: #757575;
+     font-size: 20px;
+     font-weight: 600;
+     margin-top: 40px;
+    
+     
+
+}
+
+.resume-container p{
+     color: #757575;
+     font-size: 16px;
+     font-weight: 400;
+
+}
+.download-cv{
+   text-align: center;
+   margin-top: 50px;
+}
